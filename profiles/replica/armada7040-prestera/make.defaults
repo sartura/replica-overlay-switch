@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: MIT
+#
+# Copyright (c) 2022 Sartura Ltd.
+#
+
+# Profiles cannot define `package.license` files, so set sane defaults here.
+ACCEPT_LICENSE="-* @FREE @BINARY-REDISTRIBUTABLE"
