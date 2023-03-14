@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: MIT
+#
+# Copyright (c) 2023 Sartura Ltd.
+#
+
+# We need systemd 253 for VLAN filtering
+sys-apps/systemd ~arm64
