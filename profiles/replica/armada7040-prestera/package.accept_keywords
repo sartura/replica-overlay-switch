@@ -4,4 +4,4 @@
 #
 
 # We need systemd 253 for VLAN filtering
-sys-apps/systemd ~arm64
+>=sys-apps/systemd-253 ~arm64
